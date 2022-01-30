@@ -9,7 +9,9 @@ In one move, you are allowed to apply one of the two following transformations t
     1.Swap two neighboring matrix rows, that is, rows with indexes i and i + 1 
     2.Swap two neighboring matrix columns, that is, columns with indexes j and j + 1
 
-You think that a matrix looks beautiful, if the single number one of the matrix is located in its middle (in the cell that is on the intersection of the third row and the third column). Count the minimum number of moves needed to make the matrix beautiful.
+You think that a matrix looks beautiful, if the single number one of the matrix 
+is located in its middle (in the cell that is on the intersection of the third row and the third column). 
+Count the minimum number of moves needed to make the matrix beautiful.
 
 Input
 The input consists of five lines, each line contains five integers: 
