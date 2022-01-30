@@ -15,7 +15,8 @@ Count the minimum number of moves needed to make the matrix beautiful.
 
 Input
 The input consists of five lines, each line contains five integers: 
-the j-th integer in the i-th line of the input represents the element of the matrix that is located on the intersection of the i-th row and the j-th column. 
+the j-th integer in the i-th line of the input represents the element of the matrix 
+that is located on the intersection of the i-th row and the j-th column. 
 It is guaranteed that the matrix consists of 24 zeroes and a single number one.
 
 Output
